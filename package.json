@@ -1,0 +1,23 @@
+{
+  "name": "ordinalscollections",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "@swc/cli": "^0.1.61",
+    "@swc/core": "^1.3.35"
+  },
+  "dependencies": {
+    "axios": "^1.3.2",
+    "chalk": "^4",
+    "dayjs": "^1.11.7",
+    "ejs": "^3.1.8",
+    "html-minifier": "^4.0.0",
+    "jsdom": "^21.1.0"
+  }
+}
